@@ -1,0 +1,1 @@
+console.log("welcome to my portfolio website! You hit DevTools, I see you're a person of culture as well, cheers")
