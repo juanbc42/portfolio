@@ -1,6 +1,6 @@
 ---
-title: "Story"
-date: 2023-04-11T17:49:05-03:00
+title: "Stories"
+date: 2023-04-11T19:40:56-03:00
 draft: true
 ---
 ### [Coca-Cola]({{< ref "stories/coca-cola.md" >}})
@@ -17,3 +17,4 @@ As a first experience as a Cloud Architect I was able to work in the Google Proj
 
 ### [Google Cloud DNS HAA]({{< relref "stories/google-cdns.md" >}})
 I was also able to work as a Cloud Architect in a small team, building solutions for Google to distribute to the Open Source Community. 
+
