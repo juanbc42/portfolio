@@ -1,4 +1,13 @@
 baseURL = 'https://juanbcdev.net.br/'
 languageCode = 'en-us'
 title = 'JuanBC - Cloud Architect'
-theme = 'ananke'
+theme = 'red-rose'
+builddrafts = false
+debug = true
+enableRobotsTXT = true
+
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
