@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Architect on JuanBC - Cloud Architect</title>
+    <link>https://juanbcdev.net.br/</link>
+    <description>Recent content in Cloud Architect on JuanBC - Cloud Architect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 15:14:46 -0300</lastBuildDate><atom:link href="https://juanbcdev.net.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stories</title>
+      <link>https://juanbcdev.net.br/stories/</link>
+      <pubDate>Tue, 11 Apr 2023 19:40:56 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/stories/</guid>
+      <description>Coca-Cola I&amp;rsquo;ve worked in CI&amp;amp;T for the Coca-Cola, and I&amp;rsquo;ve worked directly with the Atlanta Based client. The job was about to help markets around the world to change the content, by using an Adobe CMS: Adobe Experience Manager.
+Coca-Cola Frontend When in Coca-Cola I&amp;rsquo;ve also had the opportunity to work with Front-end in the CMS, however for the USA Market instead of the Global Market.
+Google + Globo Digital Migration As a first experience as a Cloud Architect I was able to work in the Google Project digital migration for the Globo Television, a main player in the South America when related to Television, Broadcasting, and Entertainment.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://juanbcdev.net.br/contact/</link>
+      <pubDate>Tue, 11 Apr 2023 19:38:28 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://juanbcdev.net.br/story/</link>
+      <pubDate>Tue, 11 Apr 2023 17:49:05 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/story/</guid>
+      <description>Coca-Cola I&amp;rsquo;ve worked in CI&amp;amp;T for the Coca-Cola, and I&amp;rsquo;ve worked directly with the Atlanta Based client. The job was about to help markets around the world to change the content, by using an Adobe CMS: Adobe Experience Manager.
+Coca-Cola Frontend When in Coca-Cola I&amp;rsquo;ve also had the opportunity to work with Front-end in the CMS, however for the USA Market instead of the Global Market.
+Google + Globo Digital Migration As a first experience as a Cloud Architect I was able to work in the Google Project digital migration for the Globo Television, a main player in the South America when related to Television, Broadcasting, and Entertainment.</description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://juanbcdev.net.br/technologies/</link>
+      <pubDate>Tue, 11 Apr 2023 17:47:15 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/technologies/</guid>
+      <description>I have experience in the following tech: Google Cloud Platform (gcp) IaC - Terraform GCE, GKE - Kubernetes, Cloud Build, App Engine, Cloud Monitoring, Cloud Functions, Billing Google Cloud Networking AWS - S3, CloudFront, Route53, Lambda Azure - DNS, VMs, Storage Oracle Cloud Infrastructure VMs Akamai CDN Clouflare Jenkins Versionamento via Github, Gitlab, Bitbucket Backlog via Jira, Asana, Trello </description>
+    </item>
+    
+    <item>
+      <title>Google Cloud DNS HA</title>
+      <link>https://juanbcdev.net.br/stories/google-cdns/</link>
+      <pubDate>Tue, 11 Apr 2023 16:06:29 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/stories/google-cdns/</guid>
+      <description>I was also able to work as a Cloud Architect in a small team, building solutions for Google to distribute to the Open Source Community. The solution was about</description>
+    </item>
+    
+    <item>
+      <title>Google Globo</title>
+      <link>https://juanbcdev.net.br/stories/google-globo/</link>
+      <pubDate>Tue, 11 Apr 2023 16:06:23 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/stories/google-globo/</guid>
+      <description>As a first experience as a Cloud Architect I was able to work in the Google Project digital migration for the Globo Television, a main player in the South America when related to Television, Broadcasting, and Entertainment.</description>
+    </item>
+    
+    <item>
+      <title>Coca-Cola Frontend</title>
+      <link>https://juanbcdev.net.br/stories/coca-cola-front/</link>
+      <pubDate>Tue, 11 Apr 2023 15:56:51 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/stories/coca-cola-front/</guid>
+      <description>When in Coca-Cola I&amp;rsquo;ve also had the opportunity to work with Front-end in the CMS, however for the USA Market instead of the Global Market.</description>
+    </item>
+    
+    <item>
+      <title>Coca-Cola Global Brands</title>
+      <link>https://juanbcdev.net.br/stories/coca-cola/</link>
+      <pubDate>Tue, 11 Apr 2023 15:55:19 -0300</pubDate>
+      
+      <guid>https://juanbcdev.net.br/stories/coca-cola/</guid>
+      <description>I&amp;rsquo;ve worked in CI&amp;amp;T for the Coca-Cola, and I&amp;rsquo;ve worked directly with the Atlanta Based client. The job was about to help markets around the world to change the content, by using an Adobe CMS: Adobe Experience Manager.</description>
+    </item>
+    
+  </channel>
+</rss>
