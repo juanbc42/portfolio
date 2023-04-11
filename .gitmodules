@@ -1,3 +1,9 @@
 [submodule "juanbc/themes/ananke"]
 	path = juanbc/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "themes/red-rose"]
+	path = themes/red-rose
+	url = https://github.com/httpsecure/hugo-theme-red-rose.git

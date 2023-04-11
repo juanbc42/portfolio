@@ -1,9 +1,9 @@
 ---
 title: "Experiences"
-date: 2023-03-15T15:35:56-03:00
-draft: false
+date: 2023-04-11T17:47:15-03:00
+draft: true
 ---
-I have experience in the following tech:
+## I have experience in the following tech:
 - Google Cloud Platform (gcp)
 - IaC - Terraform
 - GCE, GKE - Kubernetes, Cloud Build, App Engine, Cloud Monitoring, Cloud Functions, Billing
