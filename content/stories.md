@@ -1,7 +1,7 @@
 ---
 title: "Stories"
 date: 2023-04-11T19:40:56-03:00
-draft: true
+draft: false
 ---
 ### [Coca-Cola]({{< ref "stories/coca-cola.md" >}})
 

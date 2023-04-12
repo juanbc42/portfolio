@@ -2,57 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juanbcdev.net.br/stories/</loc>
-    <lastmod>2023-04-11T19:40:56-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/contact/</loc>
-    <lastmod>2023-04-11T19:38:28-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/story/</loc>
-    <lastmod>2023-04-11T17:49:05-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/technologies/</loc>
-    <lastmod>2023-04-11T17:47:15-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/stories/google-cdns/</loc>
-    <lastmod>2023-04-11T16:06:29-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/stories/</loc>
-    <lastmod>2023-04-11T16:06:29-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/stories/google-globo/</loc>
-    <lastmod>2023-04-11T16:06:23-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/stories/coca-cola-front/</loc>
-    <lastmod>2023-04-11T15:56:51-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbcdev.net.br/stories/coca-cola/</loc>
-    <lastmod>2023-04-11T15:55:19-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://juanbcdev.net.br/</loc>
     <lastmod>2023-03-15T15:14:46-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://juanbcdev.net.br/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://juanbcdev.net.br/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

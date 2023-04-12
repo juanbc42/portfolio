@@ -1,7 +1,7 @@
 ---
 title: "Cloud Architect"
 date: 2023-03-15T15:14:46-03:00
-draft: true
+draft: false
 ---
 ![space-background](background.jpg)
 
