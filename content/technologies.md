@@ -1,7 +1,7 @@
 ---
 title: "Experiences"
 date: 2023-04-11T17:47:15-03:00
-draft: true
+draft: false
 ---
 ## I have experience in the following tech:
 - Google Cloud Platform (gcp)

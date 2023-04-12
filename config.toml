@@ -1,6 +1,6 @@
 baseURL = 'https://juanbcdev.net.br/'
 languageCode = 'en-us'
-title = 'JuanBC - Cloud Architect'
+title = 'JuanBC'
 theme = 'ananke'
 builddrafts = false
 debug = true
