@@ -5,4 +5,3 @@ draft: false
 description: "When in coca-cola"
 ---
 When in Coca-Cola I've also had the opportunity to work with Front-end in the CMS, however for the USA Market instead of the Global Market. 
-

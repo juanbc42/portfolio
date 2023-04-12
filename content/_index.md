@@ -1,12 +1,16 @@
 ---
-title: "Cloud Architect"
+title: "JuanBC"
 date: 2023-03-15T15:14:46-03:00
 draft: false
 ---
 ![space-background](background.jpg)
 
-I'm Juan BC and I'm a Cloud Architect at CI&T 
+## I'm Juan BC 
+and I'm a Cloud Architect; at the moment, working on CI&T 
 
 iac | terraform | devops | gcp | aws | azure
 
 I'm a Cloud Architect, DevOps, focused on Google Cloud Platform, and Terraform. I've been developing my skills with Google related technologies. Also improving my knowledge with kubernetes, and general CI/CD. 
+
+[Stories]({{< ref "stories" >}})
+[Technologies]({{< ref "technologies" >}})
