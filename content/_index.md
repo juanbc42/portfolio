@@ -6,7 +6,7 @@ draft: false
 ![space-background](background.jpg)
 
 ## I'm Juan BC 
-and I'm a Cloud Architect; at the moment, working on CI&T 
+and a Cloud Architect, working on CI&T 
 
 iac | terraform | devops | gcp | aws | azure
 
