@@ -1,11 +1,12 @@
 baseURL = 'https://juanbcdev.net.br/'
 languageCode = 'en-us'
 title = 'JuanBC'
-theme = 'red-rose'
+theme = 'ananke'
 debug = false
 enableRobotsTXT = true
 enableemoji = true
 enableinlineshortcodes = true
+relativeurls = true
 
 [sitemap]
   changefreq = 'monthly'
