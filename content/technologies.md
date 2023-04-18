@@ -14,5 +14,5 @@ draft: false
 - Akamai CDN
 - Clouflare
 - Jenkins
-- Versionamento via Github, Gitlab, Bitbucket
-- Backlog via Jira, Asana, Trello
+- Versioning via Github, Gitlab, Bitbucket
+- Backlog through Jira, Asana, or Trello
