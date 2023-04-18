@@ -22,6 +22,7 @@
     <!-- Fonts -->
     {{ $style := resources.Get "font.scss" | resources.ToCSS | resources.Fingerprint }}
     <link defer rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ .Data.Integrity }}">
+    <link defer rel="stylesheet" href="personal-static/{{ $style.RelPermalink }}" integrity="{{ .Data.Integrity }}">
 
     <!-- Tab info -->
     <title>
