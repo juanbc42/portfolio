@@ -6,5 +6,5 @@ draft: false
 
 Contact me at
 
-Linkedin
-Email
+[Linkedin](https://www.linkedin.com/in/juan-barreto-801212a3/)
+[email](mailto:juanbarret@gmail.com)
