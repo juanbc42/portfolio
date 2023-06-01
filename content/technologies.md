@@ -12,7 +12,7 @@ draft: false
 - Azure - DNS, VMs, Storage
 - Oracle Cloud Infrastructure VMs
 - Akamai CDN
-- Clouflare
+- Cloudflare
 - Jenkins
 - Versioning via Github, Gitlab, Bitbucket
 - Backlog through Jira, Asana, or Trello
