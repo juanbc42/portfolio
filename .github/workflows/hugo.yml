@@ -79,10 +79,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Bump version and push tag
-        id: tag_version
-        uses: mathieudutour/github-tag-action@v6.2
+        uses: laputansoft/github-tag-action@v4.6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ env.github-token }}
+          tag: ${{ steps.package-version.outputs.version }}
       - name: Release
         uses: softprops/action-gh-release@v2
         
