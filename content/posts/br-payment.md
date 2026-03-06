@@ -10,3 +10,5 @@ The job was about to develop a solution to prepare parts of the application for 
 
 The Solution was to build a Google Cloud Platform environment that could organize some user data from big query, process it, and implement it on the Google Cloud Spanner, so it would be available for other applications or services, to pull up information. 
 
+This was a 6 month project, with closed scope
+
