@@ -20,3 +20,8 @@ As a first experience as a Cloud Architect I was able to work in the Google Proj
 
 I was also able to work as a Cloud Architect in a small team, building solutions for Google to distribute to the Open Source Community. 
 
+
+[Payment Instituition - Brasil]({{< ref "br-payment.md" >}})
+
+I've worked in CI&T for a BR Payment Instituition and I've worked directly with the São Paulo base.
+The job was about to develop a solution to prepare parts of the application for the Open Finance
